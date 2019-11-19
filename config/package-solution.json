@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "lendorav-webpart-client-side-solution",
+    "id": "75289cc9-1a33-4a62-82f3-d5700ef6b9d9",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/lendorav-webpart.sppkg"
+  }
+}

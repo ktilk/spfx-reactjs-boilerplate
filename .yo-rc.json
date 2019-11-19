@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.9.1",
+    "libraryName": "lendorav-webpart",
+    "libraryId": "75289cc9-1a33-4a62-82f3-d5700ef6b9d9",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
